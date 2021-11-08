@@ -1,12 +1,12 @@
 {
-  "name": "@samuraitruong/flatten-object",
+  "name": "flatten-objects",
   "version": "1.0.0",
   "description": "A simple function to destructure object to multiple object if it contains array in any property",
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "release": "standard-version --dry-run"
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "",

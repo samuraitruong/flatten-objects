@@ -1,8 +1,10 @@
-## flatten-object
+## flatten-objects
 
-A very simple that generate the multiple array of object when it contains the property
+A very simple function that generate the multiple array of object when it contains any array in properties
 
-for example the input is
+for example
+
+- Input
 
 ```js
 {
@@ -11,7 +13,7 @@ for example the input is
 }
 ```
 
-Result
+-> Result
 
 ```js
 [
