@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`flattenObject should return 6 objects if there no array property 1`] = `
+Array [
+  Object {
+    "a": 123,
+    "t": 1,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "t": 1,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "t": 1,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "t": 2,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "t": 2,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "t": 2,
+    "v": 3,
+  },
+]
+`;
+
+exports[`flattenObject should return 6 objects if there no array property 2`] = `
+Array [
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 1,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 1,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 1,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 1,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 1,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 1,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 1,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 1,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 1,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 2,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 2,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 2,
+    "v": 1,
+  },
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 2,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 2,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 2,
+    "v": 2,
+  },
+  Object {
+    "a": 123,
+    "k": 9,
+    "t": 2,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "k": 8,
+    "t": 2,
+    "v": 3,
+  },
+  Object {
+    "a": 123,
+    "k": 7,
+    "t": 2,
+    "v": 3,
+  },
+]
+`;
