@@ -26,7 +26,7 @@ for example
 ## Usage
 
 ```js
-import flattenObject from '@samuraitruong/flatten-object';
+import flattenObject from 'flatten-objects';
 
 result = flattenObject({ a: 1, b: [1, 2, 3] });
 console.log(result);
