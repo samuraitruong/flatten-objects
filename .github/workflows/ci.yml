@@ -45,6 +45,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
       - name: Publish NPM
         run: |
+          yarn build
           git config --global user.name 'Flatten Object CI'
           git config --global user.email '${{github.actor}}@users.noreply.github.com'
           yarn release
