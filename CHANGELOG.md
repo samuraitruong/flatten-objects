@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.3.0 (2021-11-09)
+
+
+### Features
+
+* move standard-version to dev deps ([3e288f4](https://github.com/samuraitruong/flatten-objects/commit/3e288f4fcf27d250a9704f75dc2bf381293854b8))
+
 ## 1.2.0 (2021-11-09)
 
 
